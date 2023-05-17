@@ -11,3 +11,7 @@ input {
 label {
     display: block;
 } 
+
+article {
+    justify-content: center;
+}
